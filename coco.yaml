@@ -1,0 +1,3 @@
+train: H:/xiangmu/2/coco/images/train # train images
+val: H:/xiangmu/2/coco/images/test # val images
+names: ['holothurian', 'echinus', 'scallop', 'starfish','fish','corals','diver','cuttlefish','turtle','jellyfish']
